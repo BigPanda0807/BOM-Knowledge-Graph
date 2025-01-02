@@ -1,0 +1,52 @@
+[
+    // "name": "活塞",
+    {
+        "Threaded/Non-threaded": "1122",
+        "Male/Female": "323",
+        "Screw": "231",
+        "Thread-size": "3453",
+        "Inner diameter": "34",
+        "Outer diameter": "341",
+        "Board spacing height": "3243",
+        "Total length": "342",
+        "Characteristics": "34324",
+        "Material": "342",
+        "Coating": "34",
+        "Color": "234"
+    },
+    {
+        "name": "曲轴",
+        "Material": "",
+        "Dimensions": "",
+        "Surface Treatment": "",
+        "Strength": "",
+        "Weight": "",
+        "Dynamic Balance": "",
+        "Geometric Shape": ""
+    },
+    {
+        "name": "电池",
+        "Voltage": "",
+        "Capacity": "",
+        "Chemical Composition": "",
+        "Casing Material": "",
+        "Dimensions": "",
+        "Charging Method": "",
+        "Weight": "",
+        "Charge-discharge Cycle": "",
+        "Service Life": ""
+    },
+    {
+        "name": "电池组",
+        "Total Voltage": "",
+        "Total Capacity": "",
+        "Number of Cells": "",
+        "Chemical Composition": "",
+        "Casing Material": "",
+        "Dimensions": "",
+        "Charging Method": "",
+        "Weight": "",
+        "Charge-discharge Cycle": "",
+        "Service Life": ""
+    }
+]

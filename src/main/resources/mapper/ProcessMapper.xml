@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.panda.knowledgegraph.mapper.ProcessMapper">
+    <select id="getProcessByCode" resultType="com.panda.knowledgegraph.entity.ManufacturingTechnique">
+        select *
+        from manufacturing_technique
+        where code = #{code}
+    </select>
+
+    <update id="updateProcessRelatedEquipment">
+        update manufacturing_technique
+        set related_equipment = #{equipment}
+        where code = #{code}
+    </update>
+
+    <update id="updateStatusByCode">
+        update manufacturing_technique
+        set status = #{status}
+        where code = #{code}
+    </update>
+
+
+</mapper>

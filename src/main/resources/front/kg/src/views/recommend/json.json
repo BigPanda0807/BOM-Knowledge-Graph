@@ -1,0 +1,10 @@
+{
+    "Threaded/Non-threaded": 123,
+    "Male/Female": "Male",
+    "Screw": 456,
+    "Thread-size": 789,
+    "Inner diameter": 123,
+    "Outer diameter": 456
+}
+
+{\"Threaded/Non-threaded\": 124,\"Male/Female\": \"Female\",\"Screw\": 456,\"Board spacing height\": 789,\"Total length\": 123,\"Color\": \"蓝色\"}
